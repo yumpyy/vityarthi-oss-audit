@@ -1,0 +1,30 @@
+================================================================================
+                OPEN SOURCE PHILOSOPHY STATEMENT
+================================================================================
+
+Student Name: Anupam Roy
+Registration: 24BEY10070
+Generated on: 31 March 2026 at 21:32:53
+
+--------------------------------------------------------------------------------
+
+Every day, I rely on tmux as part of my open source practice. This tool
+reminds me that software does not have to be locked away to be powerful.
+In fact, it is precisely because tmux is open that it has grown into something
+relied upon by millions.
+
+When I think about what 'freedom' means in the context of software, I think of
+privacy. Not the freedom to do anything without consequence, but the freedom
+to learn, to modify, to share, and to build on the work of those who came before.
+This is the freedom that open source guarantees.
+
+If I were to build something and share it freely, it would be software. I believe
+that knowledge, when shared, multiplies rather than diminishes. The tools we use
+every day were built by people who chose to share rather than to hoard. I want
+to be part of that tradition.
+
+Open source is not just a licence. It is a commitment to collaboration,
+transparency, and the belief that the best solutions emerge from diverse
+communities of contributors working in the open.
+
+================================================================================
